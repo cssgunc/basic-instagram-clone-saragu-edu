@@ -1,1 +1,48 @@
+.flex_container{
+    display: flex;
+    justify-content: center;
+    gap: 10px
+}
+.posts{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    gap: 40px
+}
 
+
+.follow{
+    background-color:dodgerblue;
+    border: 3px;
+    border-color: dodgerblue;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    padding: 3px 10px;
+
+}
+.discription{
+    display: flex;
+    justify-content: center;
+    gap: 10px
+}
+
+
+.stories_names{
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    gap: 40px
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    gap: 10px
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
